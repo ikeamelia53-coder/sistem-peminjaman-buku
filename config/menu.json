@@ -1,0 +1,10 @@
+{
+"roles": {
+"admin": {
+"label": "Admin",
+"dashboard": "admin/index.php",
+"permissions": ["read", "create", "update", "delete"]
+}
+},
+"modules": {}
+}
